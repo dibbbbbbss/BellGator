@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704119218232",
+    "project_id": "bellgator-one-four",
+    "storage_bucket": "bellgator-one-four.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704119218232:android:5622a7ea5e804fc8bac6cd",
+        "android_client_info": {
+          "package_name": "com.example.bellgator_one_four"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704119218232-d830hug7uaf7mfpid62unffj8j883ur9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7H9rAPsqPcTI7ako7ILU_jlacGguxGns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704119218232-d830hug7uaf7mfpid62unffj8j883ur9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
